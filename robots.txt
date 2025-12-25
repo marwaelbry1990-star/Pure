@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pure-508.pages.dev/sitemap.xml
